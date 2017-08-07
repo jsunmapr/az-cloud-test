@@ -7,7 +7,7 @@ INTERNAL="${INTERNAL_ONLY}-"
 MAPR="/opt/mapr"
 MAPR_HOME="$MAPR/installer"
 PROPERTIES_JSON="$MAPR_HOME/data/properties.json"
-STANZA_URL="https://raw.githubusercontent.com/mapr/mapr-cloud-templates/master/1.6/azure/mapr-core.yml"
+STANZA_URL="https://raw.githubusercontent.com/jsunmapr/az-cloud-test/master/mapr-core.yml"
 STATUS="SUCCESS"
 CLI="cd $MAPR_HOME; bin/mapr-installer-cli"
 
