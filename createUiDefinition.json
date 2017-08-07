@@ -386,7 +386,7 @@
               "required": true
             },
             "defaultValue": "openvpn",
-            "toolTip": "Number of nodes in cluster"
+            "toolTip": "Name of the openvpn admin"
           },
           {
             "name": "openVpnPassword",
